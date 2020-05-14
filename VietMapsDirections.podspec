@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
     # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   
     s.name         = "VietMapsDirections"
-    s.version      = "0.1.0"
+    s.version      = "1.0.0"
     s.summary      = "VietMaps Directions API wrapper for Swift."
   
     s.description  = <<-DESC
